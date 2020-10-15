@@ -2653,13 +2653,13 @@ dt {
  padding:0;
 }
 #SplashContainer #RobloxAtAGlance #ThingsToDo #Point1 {
- background-image:url(Login_files/BuildIcon.png);
+ background-image:url(BuildIcon.png);
 }
 #SplashContainer #RobloxAtAGlance #ThingsToDo #Point2 {
- background-image:url(Login_files/FriendsIcon.png);
+ background-image:url(FriendsIcon.png);
 }
 #SplashContainer #RobloxAtAGlance #ThingsToDo #Point3 {
- background-image:url(Login_files/BattleIcon.png);
+ background-image:url(BattleIcon.png);
 }
 #SplashContainer #RobloxAtAGlance #Showcase {
  float:right;
